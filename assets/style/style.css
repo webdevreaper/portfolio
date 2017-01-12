@@ -22,10 +22,10 @@ body {
     flex-direction: column;
 
     background: linear-gradient(145deg, #7143ff, #ed178e, #191c28);
-    background-size: 600% 600%;
-    -webkit-animation: backgroundGradient 60s ease infinite;
-    -moz-animation: backgroundGradient 60s ease infinite;
-    animation: backgroundGradient 60s ease infinite;
+    background-size: 100% 100%;
+    /*-webkit-animation: backgroundGradient 30s linear infinite;*/
+    /*-moz-animation: backgroundGradient 30s linear infinite;*/
+    /*animation: backgroundGradient 30s linear infinite;*/
 
     padding-top:85vh;
 }
@@ -383,11 +383,6 @@ h1 {
 @media (min-width: 768px){
     .project-wrapper {
         min-width: 50%;
-    }
-}
-@media (min-width: 992px){
-    .project-wrapper {
-        min-width: 33.3333333%;
     }
 }
 .project-img{

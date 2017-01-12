@@ -253,6 +253,18 @@
 							</a>
 						</div>
 					</section>
+          <section class="flex flex-1 vertical-center horizontal-center project-wrapper">
+            <div class="project-inner">
+              <a href="http://augustcompany.com.au" title="August Company - corporate website" class="project-link" target="_blank">
+                <img src="/assets/images/projects/augustcompany.png" alt="August Company" class="project-img">
+                <div class="hover-text-wrapper flex flex-1 vertical-center horizontal-center">
+                  <div class="hover-text">
+                    <h2 class="no-margin">Responsive WordPress site for August Company built with React</h2>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </section>
 				</div>
 			</div>
 		</section>
