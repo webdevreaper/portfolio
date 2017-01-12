@@ -168,7 +168,6 @@ svg .left-eye {
 .text-center {
     text-align: center;
 }
-
 p a{
     color:#FFFFFF;
     text-decoration: none;
@@ -189,7 +188,7 @@ p a:hover{
 }
 
 h1 {
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: normal;
     margin: 0;
     padding: 0;
@@ -389,7 +388,7 @@ h1 {
     max-width:100%;
     width:100%;
     height:auto;
-    border-radius:25px;
+    border-radius:26px;
     -webkit-box-shadow: 0 0 10px 0px rgba(2, 2, 2, .2);
     -moz-box-shadow: 0 0 10px 0px rgba(2, 2, 2, .2);
     box-shadow: 0 0 10px 0px rgba(2, 2, 2, .2);
@@ -413,7 +412,7 @@ h1 {
     text-decoration: none;
     text-shadow: 2px 3px 3px rgba(0, 0, 0, .15);
     background: rgba(0, 0, 0, 0.8);
-    border-radius: 25px;
+    border-radius: 26px;
 
     position: absolute;
     top: 0;

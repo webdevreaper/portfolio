@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Jason Grimston | Web Developer | Brisbane</title>
 	<meta name="description" content="Experienced, down to earth, freelance Web Development Brisbane."/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- reset style -->
 	<link rel="stylesheet" type="text/css" href="/assets/style/reset.css">
